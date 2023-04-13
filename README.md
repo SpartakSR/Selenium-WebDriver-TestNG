@@ -19,3 +19,5 @@
 7. Экспорт кейсов из Selenium IDE.
 
 8. Доработка и запуск тестов в Eclipse.
+
+![image](https://user-images.githubusercontent.com/127390983/231823876-6c4c3a8d-0dad-4919-a38b-7fc2b4b569da.png)
